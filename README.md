@@ -1,2 +1,16 @@
-# my issue blog
-Diplômé de M2 Informatique à l'Université de Paris Diderot, je viens de terminer 6 mois de stage de développement web full-stack (Vue.js + nodeJs), et je suis à la recherche d'un emplois front-end (CDI) à Paris.
+# 本博客
+
+这是我的个人博客，用来记录一些学习内容和笔记。
+
+本博客使用 `vue` 编写前端页面，`github api` 获取 `issues` ( 文章列表 )，`github pages` 部署。
+刚刚搭建，非常简陋，还会不断完善。近期在学 `react`，之后会再用 `react` 搭建。
+
+
+# 关于我
+
+我是吕柯。
+
+码龄3年，化学转CS。
+
+在法4年，现居巴黎。
+
